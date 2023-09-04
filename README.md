@@ -1,2 +1,2 @@
 # Mobile
-learning mobile
+The learning mobile
